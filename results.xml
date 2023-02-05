@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1670519683" />
+    <testcase classname="test" file="/home/noyan/Desktop/bc_hw/test.py" lineno="17" name="my_second_test" ratio_time="0.0" sim_time_ns="0.0" time="0.027762651443481445">
+      <failure />
+    </testcase>
+  </testsuite>
+</testsuites>
